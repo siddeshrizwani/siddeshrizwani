@@ -36,8 +36,8 @@ Full Stack Developer • AI Enthusiast • Building Scalable Applications
 - 🎓 **ECE student** at **IIIT Allahabad**
 - 💻 Passionate about **Full Stack Development, Backend Systems & AI**
 - 🚀 Built scalable university systems impacting **2000+ students**
-- 🧠 Solved **400+ DSA problems** across coding platforms
-- 🏆 **Top 22** in Amazon ML Challenge 2025 among 3000+ teams
+- 🧠 Solved **600+ DSA problems** across coding platforms
+- 🏆 **AIR 17** in Amazon ML Challenge 2025 among 3000+ teams
 - ⚡ Love building modern startup-style applications
 - 📈 Currently learning **Next.js, TypeScript & System Design**
 
