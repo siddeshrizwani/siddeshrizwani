@@ -88,9 +88,7 @@ Full Stack Developer • AI Enthusiast • Building Scalable Applications
   <img width="49%" src="https://streak-stats.demolab.com?user=siddeshrizwani&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
-<p align="center">
-  <img width="42%" src="github-readme-stats-nine-eosin-40.vercel.app/api/top-langs/?username=siddeshrizwani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
-</p>
+
 
 ---
 
